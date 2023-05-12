@@ -2,14 +2,10 @@
 
 Colorize terminal output with ANSI escape codes, using HEX colors. Minimalistic chunk of 'chalk' or 'ansi-colors'. It only colorize text or background with HEX color notation, nothing more! Minified JS takes only 0.6K.
 
-![hexpaint-wrap-bg    ](./docs/hexpaint-wrap-bg.png)
-![hexpaint-open-codes ](./docs/hexpaint-open-codes.png)
-![hexpaint-open-tcolor](./docs/hexpaint-open-tcolor.png)
-![hexpaint-text       ](./docs/hexpaint-text.png)
-<!-- ![hexpaint-wrap-bg    ](https://github.com/m-kant/hexpaint/raw/main/docs/hexpaint-wrap-bg.png)
+![hexpaint-wrap-bg    ](https://github.com/m-kant/hexpaint/raw/main/docs/hexpaint-wrap-bg.png)
 ![hexpaint-open-codes ](https://github.com/m-kant/hexpaint/raw/main/docs/hexpaint-open-codes.png)
 ![hexpaint-open-tcolor](https://github.com/m-kant/hexpaint/raw/main/docs/hexpaint-open-tcolor.png)
-![hexpaint-text       ](https://github.com/m-kant/hexpaint/raw/main/docs/hexpaint-text.png) -->
+![hexpaint-text       ](https://github.com/m-kant/hexpaint/raw/main/docs/hexpaint-text.png)
 
 ## Usage
 
