@@ -1,6 +1,6 @@
 {
   "name": "hexpaint",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Colorize terminal output with ANSI escape codes, using HEX colors",
   "main": "dist/hexpaint.js",
   "scripts": {

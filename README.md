@@ -1,6 +1,6 @@
 # hexpaint
 
-Colorize terminal output with ANSI escape codes, using HEX colors. Minimalistic chunk of 'chalk' or 'ansi-colors'. It only colorize text or background with HEX color notation, nothing more! Minified JS takes only 0.6K.
+Colorize terminal output with ANSI escape codes, using HEX colors. Minimalistic chunk of 'chalk' or 'ansi-colors'. It only colorize text or background with HEX color notation, nothing more! Minified JS takes less than 1K. Correctly treats nested colors.
 
 ![hexpaint-wrap-bg    ](https://github.com/m-kant/hexpaint/raw/main/docs/hexpaint-wrap-bg.png)
 ![hexpaint-open-codes ](https://github.com/m-kant/hexpaint/raw/main/docs/hexpaint-open-codes.png)
